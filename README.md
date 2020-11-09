@@ -3,12 +3,15 @@
 
 I'm a self-taught software engineer based in Haifa, Israel. I am passionate about creating technology that innovates and solves real world problems. Technologies I enjoy working with include ReactJS, Jamstack (Javascript, APIs and Markup) and ExpressJS. I recently co-founded a company called Gigaparsec to assemble teams of talented software engineers that will be responsible in creating technology that will innovate and revolutionize a variety of industries.
 
+
+
 ### Technologies
+
 <p align="left">
   
-  <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a" />
+ <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a" />
   
-  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a" />
+ <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a" />
   
  <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual%20studio%20code&logoColor=white&color=2bbc8a" />
   
@@ -36,10 +39,13 @@ I'm a self-taught software engineer based in Haifa, Israel. I am passionate abou
 </p>
 
 
+
 ### Let's connect
 
 - <a href="https://www.linkedin.com/in/michael-parkadze-6316951a3/" >LinkedIn</a> 
 - <a href="mailto:webmaster@example.com" >Email</a>
+
+<br/> <br/>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=michaelparkadze.visitor-badge)
 
