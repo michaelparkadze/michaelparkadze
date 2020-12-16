@@ -43,7 +43,7 @@ I'm a self-taught software engineer based in Haifa, Israel. I am passionate abou
 ### Let's connect
 
 - <a href="https://www.linkedin.com/in/michael-parkadze-6316951a3/" >LinkedIn</a> 
-- <a href="mailto:webmaster@example.com" >Email</a>
+- <a href="mailto:parkadze.michael@gmail.com" >Email</a>
 
 <br/> <br/>
 
