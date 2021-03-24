@@ -1,9 +1,6 @@
 ### Hi there, I'm Michael  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-
-I'm a self-taught software engineer based in Haifa, Israel. I am passionate about creating technology that innovates and solves real world problems. Technologies I enjoy working with include ReactJS, Jamstack (Javascript, APIs and Markup) and ExpressJS. I recently co-founded a company called Gigaparsec to assemble teams of talented software engineers that will be responsible in creating technology that will innovate and revolutionize a variety of industries.
-
-
+I am a full-stack software engineer based at Haifa, Israel. During the past 2 years of working with software development, I have obtained an understanding into wide area of technical domains ranging from both front and back end development. I am passionate about creating technology that innovates and solves real world problems. Technologies I enjoy working with include React.js, Jamstack (JavaScript, APIs and Markup), Angular and Node.js.
 
 ### Technologies
 
@@ -20,6 +17,8 @@ I'm a self-taught software engineer based in Haifa, Israel. I am passionate abou
 <img src="https://img.shields.io/badge/Code-React.js-informational?style=flat&logo=react&logoColor=white&color=2bbc8a" />
 
 <img src="https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=2bbc8a" />
+
+<img src="https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a" />
 
 <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a" />
 
