@@ -1,6 +1,6 @@
 ### Hi there, I'm Michael  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am a full-stack software engineer based at Haifa, Israel. During the past 2 years of working with software development, I have obtained an understanding into wide area of technical domains ranging from both front and back end development. I am passionate about creating technology that innovates and solves real world problems. Technologies I enjoy working with include React.js, Jamstack (JavaScript, APIs and Markup), Angular and Node.js.
+I am a full-stack software engineer based at Tel Aviv, Israel. During the past 3 years of working with software development, I have obtained an understanding into wide area of technical domains ranging from both front and back end development. I am passionate about creating technology that innovates and solves real world problems. Technologies I enjoy working with include React.js, Typescript, Angular, Node.js, Express.js and Jamstack (JavaScript, APIs and Markup).
 
 ### Technologies
 
